@@ -1,0 +1,29 @@
+User-agent: *
+Disallow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Mediapartners-Google
+Allow: /
+
+User-agent: tracker
+Disallow: tracking
+
+User-agent: google
+Disallow: tracking
+
+User-agent: ibosscloud
+Disallow: tracking
+
+User-agent: lightspeed
+Disallow: tracking
+
+User-agent: chrome
+Disallow: tracking
+
+User-agent: windows
+Disallow: tracking
+
+User-agent: linux
+Disallow: tracking
