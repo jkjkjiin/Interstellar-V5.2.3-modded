@@ -1,0 +1,29 @@
+{
+  "files.autoSave": "af\x74\u{00065}r\u{00044}\x65\x6C\u{00061}\x79",
+  "files.autoSaveDelay": 0,
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.defaultFormatter": "\u{00062}\u0069\u006F\u{0006d}\u0065\x6a\u{00073}\u{0002E}\u{00062}\x69\u006f\u{0006D}\x65",
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "**/env": true,
+    "**/venv": true,
+    "**/.github": true,
+    "**/.vscode": true,
+    "Failed.html": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/env/**": true,
+    "**/venv/**": true,
+    "env-*": true,
+    "Failed.html": true,
+    "static/assets/js/fa.js": true
+  },
+  "[html]": {
+    "editor.defaultFormatter": "\u{00076}\u0073\x63\u006fde\u002Eh\x74\u{0006D}l\u002D\u006ca\u006eg\x75a\u{00067}\u{00065}-\u{00066}\u0065\u{00061}\x74\x75r\u{00065}\u0073"
+  }
+}
