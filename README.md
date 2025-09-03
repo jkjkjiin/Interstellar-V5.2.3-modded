@@ -13,6 +13,8 @@ this website uses cloudflare to protect it self against ddos attacks and uses bo
 proxy uses cloakup/me/checker.js to help cloak proxy even more</p>
 </div>
 
+<p>https://replit.com/@tilipi6068/Interstellar-V523-modded#README.md<p/>
+
 ![inpreview](https://github.com/UseInterstellar/Interstellar/assets/89202835/2669efed-5186-4932-83c4-725acae60bd2)
 
 > [!IMPORTANT]
