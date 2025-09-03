@@ -1,0 +1,51 @@
+{
+  "$schema": "h\u0074t\u{00070}\x73\x3A/\u002F\u0062io\x6dej\u0073.\u0064ev/\x73\u{00063}\x68\u0065\u{0006D}\u{00061}\u{00073}\u{0002f}1\u{0002E}\u{00038}\u{0002E}\u{00032}/\u{00073}\u0063\x68\x65m\u{00061}.\x6as\u006F\x6e",
+  "files": {
+    "ignore": [
+      "\u{00073}\x74\x61ti\u0063\u002F\u0061\u{00073}s\u0065\u0074\u{00073}\u{0002f}\u{00068}\x69s\u{00074}\x6F\u0072\x79/\x2A\u002A",
+      "\u{00073}\u{00074}\x61\u{00074}\u0069\u0063\u002f\u0061\u{00073}s\x65t\x73\u002Fm\x61\u0074\u{00068}\x65\u006da\u{00074}i\x63\u0073\u002F\u002A*",
+      "\u{00073}\u{00074}\u0061\u{00074}\u{00069}\u0063\x2fa\x73s\u{00065}\u{00074}\u0073\u{0002F}j\u{00073}\x6f\u006e/\x2a\u002em\u0069n\u002e\u006a\x73\u{0006F}n",
+      "\x4D\u0061\u0073\x71\x72\x2E\x6A\x73",
+      "\u{0006E}\x6Fd\x65\x5F\u{0006d}\u{0006f}\u0064\u0075l\u0065s\x2f*\u{0002A}",
+      "p\u0061\u0063\x6b\x61\u0067e\x2d\x6C\x6f\x63k.\x6A\x73\u{0006F}\u{0006e}",
+      "\u{00070}\x61\u0063\u{0006b}\u0061\x67\u0065.\u{0006A}\u0073\x6f\x6e",
+      "*.\u006D\u0064",
+      "\u{00062}\u0075\u{0006e}\u{0002E}\x6co\u{00063}\x6b\u0062",
+      "\x46\u0061\u0069\u{0006c}\u0065\u{00064}\x2E\x68tml",
+      "\u{00073}\u{00074}ati\u{00063}\x2f\u0061\x73\u0073\u{00065}t\u0073\u002f\u006A\x73/\u{00030}\u0030\u{00033}\u002Ej\u{00073}"
+    ]
+  },
+  "organizeImports": {
+    "enabled": true
+  },
+  "linter": {
+    "enabled": true,
+    "rules": {
+      "recommended": true
+    }
+  },
+  "formatter": {
+    "indentStyle": "s\x70\u0061\x63e",
+    "indentWidth": 2,
+    "lineEnding": "\u006C\u0066",
+    "lineWidth": 85,
+    "attributePosition": "\x61u\u{00074}\x6F"
+  },
+  "javascript": {
+    "formatter": {
+      "enabled": true,
+      "arrowParentheses": "a\u0073N\u{00065}e\u0064\u0065\x64",
+      "bracketSameLine": true,
+      "bracketSpacing": true
+    }
+  },
+  "css": {
+    "formatter": {
+      "enabled": true,
+      "indentWidth": 3
+    },
+    "linter": {
+      "enabled": true
+    }
+  }
+}
